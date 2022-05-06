@@ -1,0 +1,3 @@
+[submodule "themes/prototypist-theme"]
+	path = themes/prototypist-theme
+	url = https://github.com/ryv/prototypist-theme
